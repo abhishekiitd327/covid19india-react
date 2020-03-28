@@ -24,3 +24,7 @@ npm i && npm start
 
 ## Contributors
 - [s-naveen](https://github.com/jeremyphilemon/covid19-india/pulls?q=is%3Apr+author%3As-naveen+is%3Aclosed)
+
+## Other Links
+https://api.rootnet.in/
+https://api.rootnet.in/covid19-in/unofficial/covid19india.org
